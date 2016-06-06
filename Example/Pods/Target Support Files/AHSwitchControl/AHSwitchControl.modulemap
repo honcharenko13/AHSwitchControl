@@ -1,6 +1,0 @@
-framework module AHSwitchControl {
-  umbrella header "AHSwitchControl-umbrella.h"
-
-  export *
-  module * { export * }
-}

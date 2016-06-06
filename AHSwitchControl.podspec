@@ -10,11 +10,10 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/honcharenko13/AHSwitchControl"
   s.license          = 'MIT'
   s.author           = { "Aleksandr" => "pfca13@gmail.com" }
-  s.source           = { :git => 'https://github.com/honcharenko13/AHSwitchControl.git, :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/honcharenko13/AHSwitchControl.git", :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'AHSwitchControl/Classes/AHSwitchControl.h'
-
   s.frameworks = 'UIKit'
 end
