@@ -1,0 +1,6 @@
+framework module Pods_AHSwitchControl_Example {
+  umbrella header "Pods-AHSwitchControl_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

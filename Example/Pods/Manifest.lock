@@ -1,0 +1,14 @@
+PODS:
+  - AHSwitchControl (0.1.0)
+
+DEPENDENCIES:
+  - AHSwitchControl (from `../`)
+
+EXTERNAL SOURCES:
+  AHSwitchControl:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AHSwitchControl: 1acb7c08bf8f1c841006097ffb49fb1be37acea3
+
+COCOAPODS: 0.39.0

@@ -1,0 +1,5 @@
+use_frameworks!
+
+target 'AHSwitchControl_Example' do
+  pod 'AHSwitchControl', :path => '../'
+end
